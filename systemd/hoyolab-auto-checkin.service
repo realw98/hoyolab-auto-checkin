@@ -1,0 +1,8 @@
+[Unit]
+Description=Hoyolab Auto Check-in 
+
+[Service]
+ExecStart=%h/hoyolab-auto-checkin/bin/python %h/hoyolab-auto-checkin/main.py
+
+[Install]
+WantedBy=default.target

@@ -1,0 +1,9 @@
+__pycache__
+.vscode
+config.json
+hoyolab-auto-checkin.log
+bin/
+lib/
+lib64
+Scripts/
+pyvenv.cfg

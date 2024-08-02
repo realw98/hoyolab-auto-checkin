@@ -1,0 +1,10 @@
+[Unit]
+Description=Hoyolab Auto Check-in timer
+
+[Timer]
+Unit=hoyolab-auto-checkin.service
+OnCalendar=*-*-* 00:01:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

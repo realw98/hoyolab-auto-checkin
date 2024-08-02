@@ -1,0 +1,14 @@
+{
+   "accounts": [
+        {
+            "cookies": {
+                "ltoken_v2": "v2_whatever",
+                "ltuid_v2": "123456789",
+                "ltmid_v2": "abcdefghij"
+            },
+            "games": ["bh3_global", "hkrpg_global", "hk4e_global", "nap_global"]  
+        }
+   ],
+   "discord_webhook_url": "Put discord webhook URL here",
+   "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 OPR/104.0.0.0"
+}
