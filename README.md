@@ -99,8 +99,6 @@ Windows:
   "games": ["hk4e_global", "hkrpg_global", "nap_global"],
   ```
 
-```
-
 ## 7. (Optional) Setup discord notification
 1. Create your own discord server and private channel.
 2. Click on channel settings
@@ -122,7 +120,8 @@ Windows:
 ```
 
 If everything is ok you should see something like this:
-<img src="https://i.imgur.com/Z7vmAhH.png"/>
+
+<img src="https://i.imgur.com/jMpkHfv.png" />
 
 
 ## 9. Setup scheduler (optional)
